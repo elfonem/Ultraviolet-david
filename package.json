@@ -1,7 +1,7 @@
 {
-  "name": "uv-app",
+  "name": "Davids-Proxy",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "Davids-Proxy",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
